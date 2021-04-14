@@ -1,4 +1,3 @@
-build_path=/Users/zhangyulong04/icode/baidu/tutoria
 
 function check() {
     cd ${build_path}
